@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website name - Articles</title>
+    <description>Website description</description>
+    <link>
+    http://localhost:4000</link>
+    
+      <item>
+        <title>Example post</title>
+        
+          <description>An example post to this theme</description>
+        
+        <pubDate>Sun, 01 May 2016 08:00:00 -0400</pubDate>
+        <link>/darcli/posts/example-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/example-post/</guid>
+      </item>
+    
+      <item>
+        <title>Example article</title>
+        
+          <description>An example article to this theme</description>
+        
+        <pubDate>Sun, 01 May 2016 08:00:00 -0400</pubDate>
+        <link>/darcli/articles/example-article/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/example-article/</guid>
+      </item>
+    
+      <item>
+        <title>Título do post</title>
+        
+          <description>descrição do post para SEO</description>
+        
+        <pubDate>Fri, 29 Apr 2016 21:00:00 -0400</pubDate>
+        <link>/darcli/posts/example-post-pt-br/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/example-post-pt-br/</guid>
+      </item>
+    
+      <item>
+        <title>Título do artigo</title>
+        
+          <description>descrição do artigo para SEO</description>
+        
+        <pubDate>Fri, 29 Apr 2016 21:00:00 -0400</pubDate>
+        <link>/darcli/articles/example-article-pt-br/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/example-article-pt-br/</guid>
+      </item>
+    
+      <item>
+        <title>Talk title</title>
+        
+          <description>Description about the subject</description>
+        
+        <pubDate>Sun, 28 Feb 2016 00:00:00 -0500</pubDate>
+        <link>https://linktotalk</link>
+        <guid isPermaLink="true">http://localhost:4000/talks/some-talk/</guid>
+      </item>
+    
+      <item>
+        <title>Project 02</title>
+        
+          <description>project description</description>
+        
+        <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+        <link>https://linktoproject</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/project-two/</guid>
+      </item>
+    
+      <item>
+        <title>Project 01</title>
+        
+          <description>project description</description>
+        
+        <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+        <link>https://linktoproject</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/project-one/</guid>
+      </item>
+    
+      <item>
+        <title>tool 02</title>
+        
+          <description>description about the tool</description>
+        
+        <pubDate>Thu, 26 Nov 2015 00:00:00 -0500</pubDate>
+        <link>https://github.com/repository</link>
+        <guid isPermaLink="true">http://localhost:4000/tools/tool-two/</guid>
+      </item>
+    
+      <item>
+        <title>tool 01</title>
+        
+          <description>description about the tool</description>
+        
+        <pubDate>Thu, 26 Nov 2015 00:00:00 -0500</pubDate>
+        <link>https://github.com/repository</link>
+        <guid isPermaLink="true">http://localhost:4000/tools/tool-one/</guid>
+      </item>
+    
+      <item>
+        <title>author2</title>
+        
+          <description></description>
+        
+        <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
+        <link>/darcli/team/author-two/</link>
+        <guid isPermaLink="true">http://localhost:4000/team/author-two/</guid>
+      </item>
+    
+      <item>
+        <title>author1</title>
+        
+          <description></description>
+        
+        <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
+        <link>/darcli/team/author-one/</link>
+        <guid isPermaLink="true">http://localhost:4000/team/author-one/</guid>
+      </item>
+    
+  </channel>
+</rss>
