@@ -1,8 +1,8 @@
 # Site specific settings
-title: "Title to this website"
+title: "Title to this "
 name: "Website name"
 keywords: "Key, words, about, this, website"
-baseurl: "/darcli"
+baseurl: "/bajoma"
 url: "http://website.com"
 description: "Website description"
 cover: "/assets/img/cover.svg"

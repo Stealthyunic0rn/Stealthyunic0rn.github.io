@@ -1,16 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
+/*adds background image*/
 html {
 	background-image: url("../img/background.gif");
 }
 
-body {
-	background-color: rgba(0,0,0,0.97);
-	color: rgba(255,255,255,0.7);
-	padding: 5px;
+body { /*main front page*/
+	background-color: rgba(0,0,0.7); /*background color of main box*/
+	color: rgba(255,255,255,0.7); /*color of font */
+	padding: 15px; /*scale of main box*/
 	margin: auto;
-	width: 80%;
-	border: 1px dashed rgba(255,255,255,0.7);
+	width: 80%; /* width of main box*/
+	border: 1px dashed rgba(255,255,255,0.7); /*add the dash lines around the border*/
 	font-family: "Open Sans";
 }
 
