@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\_site",
-    "\\_site\\writeups",
-    "\\_site\\writeups\\example-article"
+    "\\_site"
   ],
-  "SelectedNode": "\\_site\\assets",
+  "SelectedNode": "\\_site\\index.html",
   "PreviewInSolutionExplorer": false
 }
