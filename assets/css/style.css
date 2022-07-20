@@ -27,7 +27,7 @@ body { /*main front page*/
 }
 
 header, nav, main, footer {
-	margin: 15px;
+	margin: 1%;
 	border-bottom: 1px dashed rgba(255,255,255,0.5);
 }
 
@@ -37,6 +37,7 @@ header, nav {
 }
 
 .ascii { /*ascii art and name*/
+	margin-bottom: 1px;
 	color: rgba(255,255,255,1);
 	font-weight: bold;
 	font: 80%/90%;
@@ -50,7 +51,7 @@ header, nav {
 
 nav ul {
 	display: block;
-	padding: 0;
+	padding: 1;
 }
 
 nav ul li {
