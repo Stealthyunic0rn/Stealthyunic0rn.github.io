@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website name - Articles</title>
-    <description>Website description</description>
+    <description>Learning through fire</description>
     <link>
     http://localhost:4000</link>
     
@@ -12,7 +12,7 @@
           <description>An example post to this theme</description>
         
         <pubDate>Sun, 01 May 2016 08:00:00 -0400</pubDate>
-        <link>/bajoma/posts/example-post/</link>
+        <link>/posts/example-post/</link>
         <guid isPermaLink="true">http://localhost:4000/posts/example-post/</guid>
       </item>
     
@@ -22,7 +22,7 @@
           <description>An example article to this theme</description>
         
         <pubDate>Sun, 01 May 2016 08:00:00 -0400</pubDate>
-        <link>/bajoma/articles/example-article/</link>
+        <link>/articles/example-article/</link>
         <guid isPermaLink="true">http://localhost:4000/articles/example-article/</guid>
       </item>
     
@@ -32,7 +32,7 @@
           <description>descrição do post para SEO</description>
         
         <pubDate>Fri, 29 Apr 2016 21:00:00 -0400</pubDate>
-        <link>/bajoma/posts/example-post-pt-br/</link>
+        <link>/posts/example-post-pt-br/</link>
         <guid isPermaLink="true">http://localhost:4000/posts/example-post-pt-br/</guid>
       </item>
     
@@ -42,7 +42,7 @@
           <description>descrição do artigo para SEO</description>
         
         <pubDate>Fri, 29 Apr 2016 21:00:00 -0400</pubDate>
-        <link>/bajoma/articles/example-article-pt-br/</link>
+        <link>/articles/example-article-pt-br/</link>
         <guid isPermaLink="true">http://localhost:4000/articles/example-article-pt-br/</guid>
       </item>
     
@@ -102,7 +102,7 @@
           <description></description>
         
         <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
-        <link>/bajoma/team/author-two/</link>
+        <link>/team/author-two/</link>
         <guid isPermaLink="true">http://localhost:4000/team/author-two/</guid>
       </item>
     
@@ -112,7 +112,7 @@
           <description></description>
         
         <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
-        <link>/bajoma/team/author-one/</link>
+        <link>/team/author-one/</link>
         <guid isPermaLink="true">http://localhost:4000/team/author-one/</guid>
       </item>
     

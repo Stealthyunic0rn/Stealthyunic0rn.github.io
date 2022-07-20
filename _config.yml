@@ -1,10 +1,10 @@
 # Site specific settings
-title: "Title to this "
+title: "Blossom "
 name: "Website name"
 keywords: "Key, words, about, this, website"
-baseurl: "/stealthyunic0rn.github.io
-url: "http://website.com"
-description: "Website description"
+baseurl: ""
+url: "https://stealthyunic0rn.github.io"
+description: "Learning through fire"
 cover: "/assets/img/cover.svg"
 fanpage_id: ""
 
