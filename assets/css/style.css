@@ -3,7 +3,7 @@
 /*adds background image*/
 html {
 	background-image: url(https://media.giphy.com/media/chOyZePGEHDoTSY2CA/giphy.gif);
-	
+	background-position: 40% 70%;
 }
 
 
@@ -20,7 +20,7 @@ body { /*main front page*/
 
 
 .text {
-	font-size: 18px;
+	font-size: 115%;
 	margin-bottom: 5%;
 	margin-right: 8%;
 	margin-left: 8%;
@@ -36,15 +36,16 @@ header, nav {
 	text-align: center;
 }
 
-.ascii {
+.ascii { /*ascii art and name*/
 	color: rgba(255,255,255,1);
 	font-weight: bold;
-
+	font: 80%/90%;
 }
 
 .logo { /*Ascii Art logo size*/
-	font: 15px/10px monospace;*/
+	font: 80%/90% monospace;
 	/*font: 9px monospace;*/
+
 }
 
 nav ul {
