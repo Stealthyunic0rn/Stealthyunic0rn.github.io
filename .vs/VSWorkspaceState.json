@@ -5,7 +5,9 @@
     "\\assets\\css",
     "\\assets\\img",
     "\\_includes",
-    "\\_layouts"
+    "\\_layouts",
+    "\\_posts\\articles"
   ],
+  "SelectedNode": "\\assets\\img\\favicon.ico",
   "PreviewInSolutionExplorer": false
 }
