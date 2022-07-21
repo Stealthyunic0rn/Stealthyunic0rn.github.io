@@ -2,12 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\css",
     "\\assets\\img",
+    "\\pages",
     "\\_includes",
     "\\_layouts",
-    "\\_posts\\articles"
+    "\\_posts",
+    "\\_posts\\articles",
+    "\\_posts\\resources",
+    "\\_posts\\talks",
+    "\\_posts\\team"
   ],
-  "SelectedNode": "\\assets\\img\\favicon.ico",
+  "SelectedNode": "\\pages\\whoami.html",
   "PreviewInSolutionExplorer": false
 }
