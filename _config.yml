@@ -12,8 +12,6 @@ fanpage_id: ""
 lang: "en"
 ssl: false # It will redirect to https
 
-
-
-# Build settings
+#### Under the hood stuff
 markdown: kramdown
-permalink: /:categories/:title/
+

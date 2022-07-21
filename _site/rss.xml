@@ -7,13 +7,13 @@
     http://localhost:4000</link>
     
       <item>
-        <title>Example post</title>
+        <title>Example</title>
         
           <description>An example post to this theme</description>
         
         <pubDate>Sun, 01 May 2016 08:00:00 -0400</pubDate>
-        <link>/posts/example-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/example-post/</guid>
+        <link>/posts/2016/05/01/example-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2016/05/01/example-post.html</guid>
       </item>
     
       <item>
@@ -22,8 +22,8 @@
           <description>An example article to this theme</description>
         
         <pubDate>Sun, 01 May 2016 08:00:00 -0400</pubDate>
-        <link>/articles/example-article/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/example-article/</guid>
+        <link>/articles/2016/05/01/example-article.html</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016/05/01/example-article.html</guid>
       </item>
     
       <item>
@@ -32,8 +32,8 @@
           <description>descrição do post para SEO</description>
         
         <pubDate>Fri, 29 Apr 2016 21:00:00 -0400</pubDate>
-        <link>/posts/example-post-pt-br/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/example-post-pt-br/</guid>
+        <link>/posts/2016/04/29/example-post-pt-br.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2016/04/29/example-post-pt-br.html</guid>
       </item>
     
       <item>
@@ -42,8 +42,8 @@
           <description>descrição do artigo para SEO</description>
         
         <pubDate>Fri, 29 Apr 2016 21:00:00 -0400</pubDate>
-        <link>/articles/example-article-pt-br/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/example-article-pt-br/</guid>
+        <link>/articles/2016/04/29/example-article-pt-br.html</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016/04/29/example-article-pt-br.html</guid>
       </item>
     
       <item>
@@ -53,7 +53,7 @@
         
         <pubDate>Sun, 28 Feb 2016 00:00:00 -0500</pubDate>
         <link>https://linktotalk</link>
-        <guid isPermaLink="true">http://localhost:4000/talks/some-talk/</guid>
+        <guid isPermaLink="true">http://localhost:4000/talks/2016/02/28/some-talk.html</guid>
       </item>
     
       <item>
@@ -63,7 +63,7 @@
         
         <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
         <link>https://linktoproject</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/project-two/</guid>
+        <guid isPermaLink="true">http://localhost:4000/projects/2016/01/01/project-two.html</guid>
       </item>
     
       <item>
@@ -73,7 +73,7 @@
         
         <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
         <link>https://linktoproject</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/project-one/</guid>
+        <guid isPermaLink="true">http://localhost:4000/projects/2016/01/01/project-one.html</guid>
       </item>
     
       <item>
@@ -83,7 +83,7 @@
         
         <pubDate>Thu, 26 Nov 2015 00:00:00 -0500</pubDate>
         <link>https://github.com/repository</link>
-        <guid isPermaLink="true">http://localhost:4000/tools/tool-two/</guid>
+        <guid isPermaLink="true">http://localhost:4000/tools/2015/11/26/tool-two.html</guid>
       </item>
     
       <item>
@@ -93,7 +93,7 @@
         
         <pubDate>Thu, 26 Nov 2015 00:00:00 -0500</pubDate>
         <link>https://github.com/repository</link>
-        <guid isPermaLink="true">http://localhost:4000/tools/tool-one/</guid>
+        <guid isPermaLink="true">http://localhost:4000/tools/2015/11/26/tool-one.html</guid>
       </item>
     
       <item>
@@ -102,8 +102,8 @@
           <description></description>
         
         <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
-        <link>/team/author-two/</link>
-        <guid isPermaLink="true">http://localhost:4000/team/author-two/</guid>
+        <link>/team/2015/06/01/author-two.html</link>
+        <guid isPermaLink="true">http://localhost:4000/team/2015/06/01/author-two.html</guid>
       </item>
     
       <item>
@@ -112,8 +112,8 @@
           <description></description>
         
         <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
-        <link>/team/author-one/</link>
-        <guid isPermaLink="true">http://localhost:4000/team/author-one/</guid>
+        <link>/team/2015/06/01/author-one.html</link>
+        <guid isPermaLink="true">http://localhost:4000/team/2015/06/01/author-one.html</guid>
       </item>
     
   </channel>

@@ -1,35 +1,21 @@
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="Welcome to a tiny space on the internet made by Tyler Gamvrelis" />
 
-<!-- Basic information about this page -->
-<meta charset="UTF-8">
-<link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/assets/img/favicon.ico">
-<title>
-	{% if page.title %}
+	<!-- Meta tag looking for mobile devices -->
+	<meta name="viewport" content="initial-scale=1.5">
+	<meta name="theme-color" content="#232323">
+	<!-- link to main stylesheet -->
+	<link rel="stylesheet" href="../assets/css/styles.css" />
+	<link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
+
+	<title>
+		{% if page.title %}
 		{{ page.title }} ::
-	{% endif %}
-	{{ site.title }}
-</title>
+		{% endif %}
+		{{ site.title }}
 
-<!-- Meta tag looking for mobile devices -->
-<meta name="viewport" content="initial-scale=1.5">
-<meta name="theme-color" content="#232323">
+	</title>
 
-<!-- Good information about this page -->
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<meta name="keywords" content="{{ site.keywords }}{% if page.keywords %}, {{ page.keywords }}{% endif %}">
-<meta name="author" content="{{ site.name }}">
-
-
-<!-- Style and scripts files -->
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css">
-
-<!-- Extra information about this page -->
-<link rel="license" type="text/plain" src="{{ site.baseurl }}/assets/LICENSE">
-
-{% include open_graph_cards.html %}
-
-{% if site.ssl %}
-<script type="text/javascript">
-	if (window.location.protocol != "https:")
-		window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
-</script>
-{% endif %}
+</head>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example post
+title: Example
 date: 2016-05-01 12:00:00
 categories: posts
 comments: true
@@ -13,6 +13,7 @@ authors:
     - author1
     - author2
 ---
+some coneten
 
 # Header
 
